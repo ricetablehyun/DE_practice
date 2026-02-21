@@ -1,4 +1,7 @@
-
 target/
 dbt_packages/
 logs/
+.user.yml
+*.pyc
+__pycache__/
+gx/
